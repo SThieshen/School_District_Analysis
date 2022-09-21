@@ -1,2 +1,2 @@
-# School_District_Analysis
-Python, Anaconda, Jupyter, Pandas
+# School District Analysis
+
