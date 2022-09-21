@@ -1,4 +1,4 @@
-# School District Analysis
+# **School District Analysis**
 ## Project Overview
 
 Within the school district analysis, data was provided that required collection, then had to be imported to create a DataFrame within pandas. The data then required preparation and cleaning, so it could be properly analyzed. Those steps included removing rows with missing values, any duplicate data, removing unnecessary labeling, finding the data types, and getting an overview shot of the data after completing those tasks. The next step was summarizing the overall data within the DataFrame and then finally, looking specifically at different row, columns, and subsets of data. The final task was comparing charter and public schools.
